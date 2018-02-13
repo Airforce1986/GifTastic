@@ -1,0 +1,61 @@
+body{
+          
+    font-family: 'Lato', sans-serif !important;
+
+}
+h1{
+    font-size: 30px !important;
+    margin-top: 30px !important;
+
+}
+section#header{
+     text-align: center;
+     
+   }
+
+   .buttonsApp{
+   border: none;
+   display: inline-block;
+   outline: 0;
+   padding: 8px 16px;
+   vertical-align: middle;
+   overflow: hidden;
+   text-decoration: none;
+   color: inherit;
+   background-color: inherit;
+   text-align: center;
+   cursor: pointer;
+   white-space: nowrap;
+   background: #000;
+   color: #fff;
+   margin-right: 20px;
+   margin-top: 20px;
+   text-transform: capitalize;
+   transition: background 1s;
+
+   }
+
+   .buttonsApp:hover{
+   background: #ccc;
+   }
+
+   img#imgApi{
+       margin-bottom: 10px;
+   }
+   #gifs-appear-here{
+       margin-top: 20px;
+       text-align: center;
+   }
+
+   p.rating{
+       font-size: 18px;
+       font-weight: bold;
+       padding-top: 10px;
+       padding-bottom: 10px;
+       color:#000;
+       text-transform: uppercase;
+   }
+
+   #msg{
+       color:red;
+   }
